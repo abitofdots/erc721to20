@@ -7,6 +7,7 @@
 - TOKENVAULTFACTORY (TVF) : 0xEaAe04bC2EF3cc65Ec653BD55c1DFcB991Cf7582
 - TEST NFT : 0x317a8Fe0f1C7102e7674aB231441E485c64c178A, https://testnets.opensea.io/assets/goerli/0x317a8fe0f1c7102e7674ab231441e485c64c178a/367145
 - MyToken (MT) : 0x949DD2cE8Da448179454aD75Fb6AAE3725874295
+- RESULT-ERC20 : 0x55EB8fB4F9A9D16f2740C24DCc39A6d11232094F
 
 MyToken Contract가 TVF 주소를 approve해야 TVF가 MyToken을 나눌 수 있었다. 그런데 내게 필요한 것은 이런 MT 컨트랙트의 오너로부터 approve가 필요하지 않아야 한다. 오직 소유주가 TVF에 NFT를 전송한다면, 1.0개 토큰을 발행할 수 있어야한다.
 

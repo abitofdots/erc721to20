@@ -1,5 +1,10 @@
 # Fractional contracts
 
+## Contract (Goerli)
+
+SETTINGS : 0x72e1920Dc22798cae28E31525ef1a305D6f8739E (Owner : 0x1B394672A79de671E40068210D9d2FBc003e697e, Abito)
+
+
 ## Settings
 This is a generic settings contract to be owned by governance. It is gated by some high and low boundary values. It allows for governance to set parameters for all Token Vaults.
 
